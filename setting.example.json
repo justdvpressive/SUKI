@@ -1,9 +1,9 @@
 {
-    "prefix": "!",
+    "prefix": "'",
    "googleApi": "API",
    "cleverApi": "API",
-   "token": "API",
-   "firebase": "API",
+   "token": "NTcyMTIzNTU2NzI1NTIyNDcz.XMXt0A.PNtlYxOiI9U5EKZZNF6F7w19Ew4",
+   "firebase": "AIzaSyCmu--d32Vgi3AkQ78DU_yULGVuZaaMwA4",
    "spotify": {
        "clientId": "API",
        "clientSecret": "API"
